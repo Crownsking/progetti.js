@@ -1,0 +1,222 @@
+[
+  {
+    "tema": "marvel",
+    "domanda": "Chi è il creatore di Iron Man?",
+    "opzioni": [
+      "Tony Stark",
+      "Howard Stark",
+      "Bruce Banner",
+      "Steve Rogers"
+    ],
+    "risposta": "Tony Stark"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Qual è il vero nome di Black Panther?",
+    "opzioni": [
+      "T'Challa",
+      "M'Baku",
+      "N'Jadaka",
+      "Shuri"
+    ],
+    "risposta": "T'Challa"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Quale pietra dell'infinito controlla il tempo?",
+    "opzioni": [
+      "Pietra dello Spazio",
+      "Pietra della Mente",
+      "Pietra del Tempo",
+      "Pietra della Realtà"
+    ],
+    "risposta": "Pietra del Tempo"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "In quale film del MCU appare per la prima volta Spider-Man?",
+    "opzioni": [
+      "Captain America: Civil War",
+      "Spider-Man: Homecoming",
+      "Avengers: Age of Ultron",
+      "Iron Man 3"
+    ],
+    "risposta": "Captain America: Civil War"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Chi è il direttore di S.H.I.E.L.D.?",
+    "opzioni": [
+      "Nick Fury",
+      "Phil Coulson",
+      "Maria Hill",
+      "Alexander Pierce"
+    ],
+    "risposta": "Nick Fury"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Qual è il nome del martello di Thor?",
+    "opzioni": [
+      "Mjolnir",
+      "Stormbreaker",
+      "Gungnir",
+      "Andúril"
+    ],
+    "risposta": "Mjolnir"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Chi è il villain principale in 'Avengers: Infinity War'?",
+    "opzioni": [
+      "Loki",
+      "Thanos",
+      "Ultron",
+      "Red Skull"
+    ],
+    "risposta": "Thanos"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Quale supereroe è interpretato da Benedict Cumberbatch?",
+    "opzioni": [
+      "Doctor Strange",
+      "Iron Man",
+      "Hawkeye",
+      "Ant-Man"
+    ],
+    "risposta": "Doctor Strange"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "In quale città si trova la torre degli Avengers?",
+    "opzioni": [
+      "Los Angeles",
+      "New York",
+      "Chicago",
+      "Washington D.C."
+    ],
+    "risposta": "New York"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Chi è il padre di Star-Lord?",
+    "opzioni": [
+      "Yondu",
+      "Ego",
+      "Thanos",
+      "Odin"
+    ],
+    "risposta": "Ego"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Come si chiama la sorella di Thor?",
+    "opzioni": [
+      "Hela",
+      "Freya",
+      "Valkyrie",
+      "Sif"
+    ],
+    "risposta": "Hela"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Qual è il vero nome di Scarlet Witch?",
+    "opzioni": [
+      "Wanda Maximoff",
+      "Natasha Romanoff",
+      "Carol Danvers",
+      "Pepper Potts"
+    ],
+    "risposta": "Wanda Maximoff"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Quale supereroe ha una tuta fatta di vibranio?",
+    "opzioni": [
+      "Black Panther",
+      "Iron Man",
+      "Falcon",
+      "Hawkeye"
+    ],
+    "risposta": "Black Panther"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Qual è l'alias di Natasha Romanoff?",
+    "opzioni": [
+      "Black Widow",
+      "Scarlet Witch",
+      "Wasp",
+      "She-Hulk"
+    ],
+    "risposta": "Black Widow"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Quale personaggio Marvel ha ricevuto i suoi poteri da un esperimento con raggi gamma?",
+    "opzioni": [
+      "Hulk",
+      "Captain America",
+      "Spider-Man",
+      "Iron Man"
+    ],
+    "risposta": "Hulk"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "In che film gli Avengers combattono contro Ultron?",
+    "opzioni": [
+      "Avengers: Age of Ultron",
+      "Avengers: Endgame",
+      "Avengers: Infinity War",
+      "Iron Man 2"
+    ],
+    "risposta": "Avengers: Age of Ultron"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Chi è la sorella adottiva di Loki?",
+    "opzioni": [
+      "Hela",
+      "Sif",
+      "Frigga",
+      "Sylvie"
+    ],
+    "risposta": "Hela"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Cosa fa attivare il protocollo 'Veronica' in Age of Ultron?",
+    "opzioni": [
+      "Una crisi con Hulk",
+      "La scomparsa di Tony",
+      "Il tradimento di Ultron",
+      "L'attacco a Sokovia"
+    ],
+    "risposta": "Una crisi con Hulk"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Quale personaggio ha ucciso Visione in Infinity War?",
+    "opzioni": [
+      "Scarlet Witch",
+      "Thanos",
+      "Corvus Glaive",
+      "Ebony Maw"
+    ],
+    "risposta": "Thanos"
+  },
+  {
+    "tema": "marvel",
+    "domanda": "Chi ha detto la frase: 'Io sono Iron Man'?",
+    "opzioni": [
+      "Tony Stark",
+      "Steve Rogers",
+      "Bruce Banner",
+      "Nick Fury"
+    ],
+    "risposta": "Tony Stark"
+  }
+]
